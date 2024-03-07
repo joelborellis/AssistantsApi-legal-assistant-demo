@@ -1,0 +1,17 @@
+May it please the court, members of the jury, my name is [Your Name], and I represent the plaintiff in this case, The New York Times Company, an institution that has stood as a pillar of independent journalism for over a century. We are here today because the defendants, Microsoft and OpenAI, have taken what is not theirs and used it for their own immense profit. They have done so without permission, without payment, and without regard for the law that protects the heart of our democratic society: the free press.
+
+The New York Times is not just a newspaper; it is an enduring symbol of investigative reporting, insightful analysis, and public service journalism. Its work is safeguarded by the Constitution and the Copyright Act, which together grant exclusive rights to creators over their works. These rights are not mere formalities; they are the lifeblood of any content creator, ensuring that those who invest time, resources, and talent into producing original work can reap the benefits of their labor.
+
+The defendants have infringed upon these rights in the most brazen manner. They have used The Times's copyrighted articles—millions of them—to train their artificial intelligence tools, including Microsoft's Bing Chat and OpenAI's ChatGPT. These AI products, now infused with the knowledge and style gleaned from The Times's content, directly compete with The Times, threatening its ability to continue providing the quality journalism upon which our society relies.
+
+The defendants' conduct has not only infringed upon The Times's copyrights but has also misappropriated its brand. Their AI tools generate outputs that recite, summarize, or mimic The Times's content, sometimes even attributing false information to The Times, which undermines the trust between The Times and its readers and jeopardizes its relationships with subscribers and advertisers.
+
+Let us be clear: the defendants have profited handsomely from their infringement. Microsoft's market capitalization and OpenAI's valuation have soared, while The Times has been deprived of the revenue that rightfully belongs to it. Revenue that sustains the independent journalism that informs the public, holds the powerful accountable, and upholds the very fabric of our democracy.
+
+The Times has sought to resolve this matter through negotiation, seeking only fair compensation for the use of its content. Yet, the defendants have refused to recognize The Times's rights, hiding behind the misapplied doctrine of "fair use." But there is nothing transformative about taking The Times's content without payment to create substitutive products. Fair use does not and should not permit the wholesale scraping of a publisher's content to train a commercial product that displaces the need for the original.
+
+We are here to seek justice, to hold the defendants accountable for their willful infringement, and to ensure that The New York Times can continue its mission of delivering high-quality journalism. We ask for statutory damages, actual damages, restitution of profits, and attorneys' fees. But most importantly, we seek a permanent injunction to put an end to the defendants' unlawful conduct.
+
+Members of the jury, through your verdict, you have the power to affirm the rights of content creators, to protect the integrity of journalism, and to send a clear message that the law does not tolerate the unauthorized use of copyrighted works. We trust that you will do so and thank you for your service.
+
+Thank you, Your Honor.

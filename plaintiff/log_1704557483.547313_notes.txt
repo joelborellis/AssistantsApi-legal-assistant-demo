@@ -1,0 +1,21 @@
+- The New York Times Company (Plaintiff) has a longstanding reputation for high-quality, independent journalism, which is vital to democracy and increasingly rare.
+- Defendants Microsoft and OpenAI have unlawfully used The Times's copyrighted work to create AI products that compete with The Times, threatening its ability to provide quality journalism.
+- Defendants' AI tools, including Microsoft's Bing Chat and OpenAI's ChatGPT, were built using large language models trained on millions of The Times's copyrighted articles without permission or payment.
+- The Times's journalism is protected by the Constitution and the Copyright Act, which grants exclusive rights to creators over their works.
+- Defendants have refused to recognize this protection, and their AI tools can generate outputs that verbatim recite, closely summarize, or mimic The Times's content, sometimes attributing false information to The Times.
+- Defendants' use of The Times's content undermines The Times's relationship with its readers and deprives it of revenue from subscriptions, licensing, advertising, and affiliate links.
+- Defendants' use of The Times's intellectual property without payment has been lucrative, with Microsoft's market capitalization and OpenAI's valuation increasing significantly.
+- The Times has attempted to negotiate with Defendants for fair use of its content but has not reached a resolution.
+- Defendants claim their conduct is protected as "fair use," but The Times argues there is nothing transformative about using its content without payment to create substitutive products.
+- The Times seeks to hold Defendants responsible for statutory and actual damages for the unlawful copying and use of its uniquely valuable works.
+- Jurisdiction and venue are proper in the Southern District of New York, as Defendants conduct business in New York, and The Times's principal place of business is in this District.
+- The Times demands a jury trial and seeks statutory damages, actual damages, restitution of profits, attorneys' fees, and other legal remedies, including a permanent injunction against Defendants' infringing conduct.
+
+Arguments for Plaintiff (The New York Times Company):
+- The Times's journalism is protected by copyright law, and Defendants have infringed upon these rights by using its content to train and operate their AI tools.
+- Defendants' actions constitute willful infringement, as they were aware of The Times's copyrights and continued their conduct despite attempts to negotiate.
+- Defendants' AI tools not only infringe on The Times's copyrights but also misappropriate its brand and content, leading to loss of revenue and damage to its reputation.
+- Defendants have profited immensely from their infringement, while The Times has suffered financial and reputational harm.
+- The Times has a history of licensing its content for fair compensation, which Defendants have circumvented, causing further economic injury.
+- The Times seeks injunctive relief to prevent ongoing and future infringement and to protect its intellectual property rights.
+- The Times is entitled to recover damages for the unauthorized use of its copyrighted works and the dilution of its trademarks.

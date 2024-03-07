@@ -1,0 +1,21 @@
+- The New York Times Company (Plaintiff) has a longstanding reputation for high-quality, independent journalism, which is costly and resource-intensive to produce.
+- Defendants (Microsoft and various OpenAI entities) have used The Times's copyrighted content to train their generative artificial intelligence (GenAI) tools, such as ChatGPT and Bing Chat, without permission or compensation.
+- The Times's journalism is protected by copyright law, which grants exclusive rights to creators, including the right to reproduce, adapt, publish, perform, and display their works.
+- Defendants' GenAI tools can generate outputs that verbatim recite, closely summarize, or mimic the style of The Times's content, and also attribute false information to The Times, which is damaging to its reputation.
+- Defendants' use of The Times's content undermines The Times's relationship with its readers and deprives it of revenue from subscriptions, licensing, advertising, and affiliate links.
+- Defendants' actions have been extremely lucrative, with Microsoft's market capitalization and OpenAI's valuation significantly increasing as a result of their GenAI business interests.
+- The Times has attempted to negotiate with Defendants for fair use of its content but has not reached a resolution, leading to this legal action.
+- Defendants claim their conduct is protected as "fair use," but The Times argues that their use of its content to create substitutive products is not transformative and competes with The Times.
+- The Times seeks to hold Defendants responsible for statutory and actual damages for the systematic and competitive infringement of its copyrighted works.
+- The Times demands statutory damages, compensatory damages, restitution, a permanent injunction against Defendants' infringing conduct, destruction of all infringing LLM models and training sets, costs, expenses, attorneys' fees, and other equitable relief.
+
+**Arguments for Plaintiff's Opening:**
+- The Times's journalism is a product of substantial investment and is protected by copyright law; Defendants' unauthorized use constitutes infringement.
+- Defendants' GenAI tools, which incorporate The Times's content, directly compete with The Times and harm its ability to generate revenue.
+- Defendants have financially benefited from their infringement, capitalizing on The Times's content to enhance their products and market value.
+- The Times has made efforts to resolve the issue amicably, but Defendants have persisted in their infringing activities.
+- Defendants' claim of "fair use" is unfounded, as their use of The Times's content is not transformative and instead serves as a direct substitute for The Times's products.
+- Defendants' actions have caused and will continue to cause irreparable harm to The Times, justifying a demand for injunctive relief and damages.
+- The Times's trademarks are being diluted by Defendants' unauthorized and inaccurate use, damaging its reputation for quality and reliability.
+- Defendants' removal of copyright management information from The Times's content facilitates further infringement and conceals their unlawful actions.
+- The Times seeks justice for the misappropriation of its content and the protection of its rights as a creator and publisher.

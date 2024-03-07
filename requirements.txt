@@ -1,0 +1,8 @@
+openai
+tiktoken
+python-dotenv
+langchain
+halo
+pytube
+pydub
+openai-whisper

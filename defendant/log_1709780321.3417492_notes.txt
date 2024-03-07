@@ -1,0 +1,37 @@
+- Significant time facts:
+  - The New York Times (The Times) has been producing journalism for over 170 years.
+  - OpenAI was formed in December 2015 and shifted from a non-profit to a for-profit entity in 2019.
+  - Microsoft invested at least $13 billion in OpenAI Global LLC.
+  - The Times reached out to Microsoft and OpenAI in April 2023 regarding intellectual property concerns.
+  - ChatGPT was released in November 2022 and reached one million users within a month.
+  - Microsoft unveiled Bing Chat, powered by GPT-4, in February 2023.
+  - The Times filed this complaint on December 27, 2023.
+
+- All characters in the case:
+  - Plaintiff: The New York Times Company
+  - Defendants: Microsoft Corporation, OpenAI, Inc., OpenAI LP, OpenAI GP LLC, OpenAI LLC, OpenAI OpCo LLC, OpenAI Global LLC, OAI Corporation, LLC, OpenAI Holdings, LLC
+  - Attorneys for The Times: Susman Godfrey LLP and Rothwell, Figg, Ernst & Manbeck, P.C.
+
+- Conflicts:
+  - The Times alleges that the defendants unlawfully used its copyrighted work to create and train generative artificial intelligence (GenAI) tools that compete with The Times.
+  - The Times claims that the defendants' GenAI tools, such as ChatGPT and Bing Chat, are trained on large language models (LLMs) that contain copies of The Times's content, which is then used to generate outputs that mimic The Times's style and content.
+  - The Times argues that this infringes on its copyrights and undermines its subscription, licensing, advertising, and affiliate revenue.
+  - The defendants claim their conduct is protected as "fair use" because their unlicensed use of copyrighted content to train GenAI models serves a new "transformative" purpose.
+
+- Consequences:
+  - The Times seeks billions of dollars in statutory and actual damages for the alleged unlawful copying and use of its works.
+  - The Times demands a permanent injunction against the defendants to stop the alleged infringing conduct.
+  - The Times requests the destruction of all GPT or other LLM models and training sets that incorporate Times Works.
+
+- Analogies or metaphors:
+  - The Times likens its journalism to a vital service in a "damaged information ecosystem" awash in unreliable content.
+  - The Times compares the defendants' use of its content to "free-riding" on its investment in journalism.
+
+- Key arguments on why the defendant should win the case:
+  - Fair Use Defense: The defendants may argue that the use of The Times's content in training LLMs is a transformative use that does not substitute for the original and serves a new purpose, thus qualifying as fair use under copyright law.
+  - Lack of Direct Infringement: The defendants may contend that they did not directly infringe on The Times's copyrights because the LLMs generate new, independent content rather than simply republishing The Times's articles.
+  - No Substantial Similarity: The defendants could argue that the outputs from their GenAI tools are not substantially similar to The Times's copyrighted works, as they do not copy the heart of the original works.
+  - No Market Harm: The defendants might assert that their GenAI tools do not harm the potential market for or value of The Times's copyrighted works, as they cater to different consumer needs and do not replace the need for original journalism.
+  - Benefit to Society: The defendants could argue that their GenAI tools provide significant benefits to society by advancing technology and knowledge, which could be considered in the fair use analysis.
+  - Challenging the Plaintiff's Claims: The defendants may challenge the accuracy of The Times's claims regarding the training data and outputs of the LLMs, potentially disputing the extent to which The Times's content was used and the alleged "memorization" of articles.
+  - Questioning Damages: The defendants may question the calculation of damages, arguing that The Times has not sufficiently demonstrated the direct link between the alleged infringement and any financial harm suffered.
